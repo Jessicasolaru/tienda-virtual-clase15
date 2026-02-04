@@ -1,0 +1,30 @@
+/* Estilo para productos favoritos */
+/* Esta clase se agrega dinámicamente con jQuery
+   cuando un producto es marcado como favorito */
+.favorito {
+  /* Borde amarillo para destacar el producto */
+  border: 2px solid #ffc107;
+   /* Sombra suave para resaltar visualmente la card */
+  box-shadow: 0 0 10px rgba(255, 193, 7, 0.5);
+}
+
+/* Ícono de favorito (opcional) */
+    .icono-fav {
+      color: gold; /* Color dorado */
+      font-size: 1.2rem; /* Tamaño del ícono */
+    }
+/* Carrusel de Bootstrap */
+/* Controla el tamaño de las imágenes del carrusel */
+    .carousel-item img {
+      height: 300px;  /* Altura fija para uniformar el carrusel */
+      object-fit: cover;      /* recorta sin deformar */
+    }
+/* Estilos generales de la página */
+    body {
+      background-color: #fff0f3; /* rosa bebé claro */
+}
+/* Título principal */
+h1 {
+  font-family: 'Montserrat', sans-serif; /* Tipografía desde Google Fonts */
+  font-weight: 600;  /* Grosor del texto */
+}
