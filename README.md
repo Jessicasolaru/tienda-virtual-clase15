@@ -1,4 +1,6 @@
-Skin1004 Virtual - Tienda interactiva con jQuery y Bootstrap
+Skin1004 Virtual - Tienda interactiva de prueba con jQuery y Bootstrap
+
+link pages: https://jessicasolaru.github.io/tienda-virtual-clase15/
 
 Proyecto de una tienda virtual interactiva desarrollado con HTML, CSS, jQuery y Bootstrap.
 La página principal muestra un carrusel de productos destacados y una lista de productos donde el usuario puede marcar y desmarcar favoritos mediante interacciones dinámicas.
